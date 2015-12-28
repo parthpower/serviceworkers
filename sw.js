@@ -1,2 +1,2 @@
 console.log('asddasd');
-m = new Notification("OOOkkkk");
+m = new window.Notification("OOOkkkk");
